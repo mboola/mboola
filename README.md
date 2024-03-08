@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcel Povill i Lletí and I'm studing  Computer Engineering at Tarragona. I'm also a 42 Barcelona student, currently in the third circle.</p>
+<p align="left">My name is Marcel Povill i Lletí, and I'm studying Computer Engineering in Tarragona. I'm also a 42 Barcelona student, currently in the third circle.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 My current goal i to learn all I can about Computer Engineering, focusing on software development.<br>✨ Creating and testing programs is what i´d like to do as my career.<br>🎲 Fun fact: I learned by myself how to make games in Unity and I worked on one one whole year ^^.</p>
+<p align="left">🎯 My current goal is to learn all I can about Computer Engineering, focusing on software development.<br>✨ Creating and testing programs is what I´d like to do as my career.<br>🎲 Fun fact: I learned by myself how to make games in Unity^^.</p>
 
 ###
 
