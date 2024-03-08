@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marcel Povill i Lletí and I'm studing  Computer Engineering at Tarragona. I'm also a 42 Barcelona student, currently in the second circle.</p>
+<p align="left">My name is Marcel Povill i Lletí and I'm studing  Computer Engineering at Tarragona. I'm also a 42 Barcelona student, currently in the third circle.</p>
 
 ###
 
